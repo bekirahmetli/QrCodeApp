@@ -2,7 +2,7 @@
 
 A modern, fast, and user-friendly QR code scanner and generator app developed with Kotlin. Packed with features like real-time scanning, gallery selection, history tracking, and QR code creation.
 
-![Home Screen](ss/anaekrantara.png)
+<img src="ss/anaekrantara.png" width="350" height="800"/>
 
 ---
 
@@ -32,6 +32,6 @@ A modern, fast, and user-friendly QR code scanner and generator app developed wi
 
 | Generator |
 |----------|
-| ![Generator](ss/qrolusturma.png)
+<img src="ss/qrolusturma.png" width="300" height="650"/>
 
 ---
